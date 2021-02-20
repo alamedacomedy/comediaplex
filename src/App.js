@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App"> 
       <header className="App-header">
-        <img src='./img/comediaplex-banner.jpg' className="App-logo" height="400" alt="logo" />
+        <img src='./img/comediaplex-banner.jpg' className="App-logo" height="300" alt="logo" />
       </header>
       <VideoPlayer/>
     </div>
